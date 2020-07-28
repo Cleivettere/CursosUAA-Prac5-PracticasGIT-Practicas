@@ -3,7 +3,6 @@
 #include<string.h>
 #include<iostream>
 /*cambios en la segunda rama  pero en la carperta de GIT HUB
-
 */
 using namespace std;
    
@@ -15,6 +14,7 @@ int main(){
       char otronom[10];
       char apellidos[25];
       int edad;
+      int sueldo;
    };
 
  int i;   
