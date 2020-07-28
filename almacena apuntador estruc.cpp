@@ -2,7 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 #include<iostream>
-/*cambios en la segunda rama 
+/*cambios en la segunda rama  pero en la carperta de GIT HUB
+
 */
 using namespace std;
    
